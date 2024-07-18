@@ -1,3 +1,0 @@
-C:/Users/booke/OneDrive/Desktop/To-Do App/cmake-build-debug/CMakeFiles/To_Do_App.dir
-C:/Users/booke/OneDrive/Desktop/To-Do App/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/booke/OneDrive/Desktop/To-Do App/cmake-build-debug/CMakeFiles/rebuild_cache.dir
