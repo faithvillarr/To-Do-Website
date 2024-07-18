@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <audio id = "background-music" loop>
+        <source src="assets\solitude.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio> 
+
+    <div id="left-panel">
+        <img src="assets\blue bows.jpg" alt = "some super cutie bows">
+    </div>
+
+    <div id="right-panel">
+        <button id = "music-toggle">♫</button>
+        <h1>My To-Do List</h1>
+        <ul id = "task-list"></ul>
+        <div id = "new-task">
+            <input type="text" id="task-input" placeholder="My new task is...">
+            <button id="add-task-button">Add Task</button>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
