@@ -4,5 +4,8 @@ As someone who can't work without music, I also added a little music button with
 
 Hope you enjoy!
 
-https://github.com/user-attachments/assets/8cdd1bb1-7d23-47e5-9a75-2cd5fff827d6
+
+
+https://github.com/user-attachments/assets/a154e671-5cc3-4a86-aa47-9c535677d9ca
+
 
